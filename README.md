@@ -1,2 +1,1 @@
 # Gemini
-Gen AI
